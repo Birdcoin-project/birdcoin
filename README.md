@@ -3,9 +3,9 @@ Birdcoin - a fork of Litecoin version with fast block time and faster confirmati
 	- 30 second block target
 	- Difficulty retargets every 1 hour
 	- Total coins will be around 200 million. 
-	- Each block will have 40 coins per block
+	- Each block will have 400 coins per block
 	- Block subsidy halves once per year.
-	- The default ports are 52112 (connect) and 52111 (json rpc).
+	- The default ports are 55884 (connect) and 55883 (json rpc).
 
 
 Development process
