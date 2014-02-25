@@ -1,0 +1,9 @@
+Building Birdcoin
+
+See doc/readme-qt.rst for instructions on building Birdcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Birdcoin.
+
+See doc/build-*.txt for instructions on building birdcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Birdcoin.
